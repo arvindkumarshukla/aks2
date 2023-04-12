@@ -10,3 +10,6 @@ table.borderless td,table.borderless th{
     border: none !important;
 }
 
+.rounded-pill {
+    border-radius: 1.75rem!important;
+}
