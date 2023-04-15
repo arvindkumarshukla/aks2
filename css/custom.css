@@ -18,4 +18,9 @@ table.borderless td,table.borderless th{
     .rounded-pill {    
         height: calc(3.0rem + 1px) !important;
     }
+
   }
+ 
+  .table>thead>tr>th {
+    vertical-align: bottom !important;
+}
