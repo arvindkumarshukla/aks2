@@ -13,3 +13,9 @@ table.borderless td,table.borderless th{
 .rounded-pill {    
     height: calc(4.25rem + 2px) !important;
 }
+
+@media only screen and (max-width: 600px) {
+    .rounded-pill {    
+        height: calc(3.0rem + 1px) !important;
+    }
+  }
